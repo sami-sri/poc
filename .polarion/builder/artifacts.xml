@@ -1,6 +1,0 @@
-<artifacts>
-	<artifact>
-		<type>maven2</type>
-		<location>trunk</location>
-	</artifact>
-</artifacts>

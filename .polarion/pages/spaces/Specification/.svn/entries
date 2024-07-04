@@ -1,46 +1,0 @@
-8
-
-dir
-15
-http://localhost/repo/Demo%20Projects/elibrary/.polarion/pages/spaces/Specification
-http://localhost/repo
-
-
-
-2024-06-10T10:11:43.415328Z
-1
-admin
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-79776e77-c80d-d144-9844-7fab4acc1da3
-
-Epic Statistics
-dir
-
-Home
-dir
-
-Requirement Approval Status
-dir
-
-Requirement Statistics
-dir
-
-Requirement User Story Coverage
-dir
-
-User Story Statistics
-dir
-
