@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/testing/testruns/0_9b%20FMST/workflowsignatures
+END
+workflowsignature-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/testing/testruns/0_9b%20FMST/workflowsignatures/workflowsignature-1.xml
+END
+workflowsignature-2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/testing/testruns/0_9b%20FMST/workflowsignatures/workflowsignature-2.xml
+END

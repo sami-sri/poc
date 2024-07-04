@@ -1,0 +1,41 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/portal
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+default_project_favorite_shortcuts.xml
+file
+
+
+
+
+2024-06-21T08:57:14.931000Z
+0eb795fda262d1485c27a253187c69a4
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

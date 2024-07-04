@@ -1,0 +1,41 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/modules/Specification/Product%20Specification/workitems/EL-125
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+workitem.xml
+file
+
+
+
+
+2024-06-21T08:57:25.576000Z
+d97ff05556c4269e5644f326f7d30609
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

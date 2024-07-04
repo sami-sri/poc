@@ -1,0 +1,54 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/modules/Specification/Product%20Specification/workitems/EL-107
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+workitem.xml
+file
+
+
+
+
+2024-06-21T08:57:24.714000Z
+b409e0b81d9cc38dcb0b9239143c636c
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+workrecord-1.xml
+file
+
+
+
+
+2024-06-21T08:57:24.720000Z
+5f196aa9f8b73d2a114c3269521092d9
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

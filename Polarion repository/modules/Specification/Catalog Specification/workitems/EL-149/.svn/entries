@@ -1,0 +1,54 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/modules/Specification/Catalog%20Specification/workitems/EL-149
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+comment-1.xml
+file
+
+
+
+
+2024-06-21T08:57:23.734000Z
+8dbe200d7f1ddeae8ddeb591c15ade18
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+workitem.xml
+file
+
+
+
+
+2024-06-21T08:57:23.739000Z
+54f587d449b40337d200e7e60e3f2768
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

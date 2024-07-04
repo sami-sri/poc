@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/documents/fields
+END
+document-status-enum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/documents/fields/document-status-enum.xml
+END
+document-type-enum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/documents/fields/document-type-enum.xml
+END
+custom-fields.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repo/!svn/ver/1/Demo%20Projects/elibrary/.polarion/documents/fields/custom-fields.xml
+END
