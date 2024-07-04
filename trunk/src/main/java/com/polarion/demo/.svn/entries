@@ -1,0 +1,70 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/trunk/src/main/java/com/polarion/demo
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+Book.java
+file
+
+
+
+
+2024-06-21T08:57:28.205000Z
+140d840dac9a771d2d65efb8908189ae
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+Example.java
+file
+
+
+
+
+2024-06-21T08:57:28.212000Z
+95b7e95dcbad36842212fec80206fa88
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+Library.java
+file
+
+
+
+
+2024-06-21T08:57:28.219000Z
+6b6e286ae74b7ff2479aee7180ee2ae7
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+reuse
+dir
+

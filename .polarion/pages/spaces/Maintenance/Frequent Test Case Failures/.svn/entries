@@ -1,0 +1,41 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/pages/spaces/Maintenance/Frequent%20Test%20Case%20Failures
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+page.xml
+file
+
+
+
+
+2024-06-21T08:57:12.356000Z
+a55f521b8a4adcfb7c75e193a072d519
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

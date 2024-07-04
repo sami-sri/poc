@@ -1,0 +1,41 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/wiki/watermarks/confidential
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+confidential.png
+file
+
+
+
+
+2024-06-21T08:57:20.597000Z
+6dc2f9ad7eaace2be7f515ec0f838aeb
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

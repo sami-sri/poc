@@ -1,0 +1,54 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/tracker/workitems/00-99/EL-79
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+workitem.xml
+file
+
+
+
+
+2024-06-21T08:57:19.472000Z
+c8f7a936640c5c524d7bad015cec74af
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+workrecord-1.xml
+file
+
+
+
+
+2024-06-21T08:57:19.479000Z
+231366b84b0afe04a26139cead1a7075
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+

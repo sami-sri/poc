@@ -1,0 +1,54 @@
+8
+
+dir
+15
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/security
+http://localhost/repo
+
+
+
+2024-06-10T10:11:43.415328Z
+1
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+permissions.xml
+file
+
+
+
+
+2024-06-21T08:57:15.180000Z
+31674f1158c5e064b8f987c4dc3fc53a
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
+user-roles.xml
+file
+
+
+
+
+2024-06-21T08:57:15.187000Z
+7abd5c424be3cf8027c0817e07c14380
+2024-06-10T10:11:43.415328Z
+1
+admin
+has-props
+
