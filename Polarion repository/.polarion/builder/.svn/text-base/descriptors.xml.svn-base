@@ -1,42 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <descriptors>
-  <descriptor>
-    <artifacts>
-      <artifact>
-        <artifactId>elibrary</artifactId>
-      </artifact>
-    </artifacts>
-    <build>
-      <properties>
-           <exclude.tests.pattern>**/LoginTest.java</exclude.tests.pattern>           
-           <polarion.build.xUnit.import.idPrefix>build_quick</polarion.build.xUnit.import.idPrefix>
-           <polarion.build.xUnit.import.enabled>true</polarion.build.xUnit.import.enabled>
-      </properties>
-    </build>
-  </descriptor>
-  <descriptor name="All Tests">
-    <artifacts>
-      <artifact>
-        <artifactId>elibrary</artifactId>
-      </artifact>
-    </artifacts>
-    <build>
-      <properties>
-           <polarion.build.xUnit.import.idPrefix>build_all</polarion.build.xUnit.import.idPrefix>
-           <polarion.build.xUnit.import.enabled>true</polarion.build.xUnit.import.enabled>
-      </properties>
-    </build>
-  </descriptor>
-  <descriptor name="All Tests (No xUnit Test Import)">
-    <artifacts>
-      <artifact>
-        <artifactId>elibrary</artifactId>
-      </artifact>
-    </artifacts>
-    <build>
-      <properties>
-           <polarion.build.xUnit.import.enabled>false</polarion.build.xUnit.import.enabled>
-      </properties>
-    </build>
-  </descriptor>
+    <descriptor name="_default">
+        <artifacts>
+            <artifact>
+                <artifactId>elibrary</artifactId>
+            </artifact>
+        </artifacts>
+        <build>
+            <properties>
+                <polarion.build.xUnit.import.enabled>true</polarion.build.xUnit.import.enabled>
+                <polarion.build.xUnit.import.idPrefix>build_quick</polarion.build.xUnit.import.idPrefix>
+                <exclude.tests.pattern>**/LoginTest.java</exclude.tests.pattern>
+            </properties>
+        </build>
+    </descriptor>
+    <descriptor name="All Tests">
+        <artifacts>
+            <artifact>
+                <artifactId>elibrary</artifactId>
+            </artifact>
+        </artifacts>
+        <build>
+            <properties>
+                <polarion.build.xUnit.import.enabled>true</polarion.build.xUnit.import.enabled>
+                <polarion.build.xUnit.import.idPrefix>build_all</polarion.build.xUnit.import.idPrefix>
+            </properties>
+        </build>
+    </descriptor>
+    <descriptor name="All Tests (No xUnit Test Import)">
+        <artifacts>
+            <artifact>
+                <artifactId>elibrary</artifactId>
+            </artifact>
+        </artifacts>
+        <build>
+            <properties>
+                <polarion.build.xUnit.import.enabled>false</polarion.build.xUnit.import.enabled>
+            </properties>
+        </build>
+    </descriptor>
+    <descriptor name="tokensys">
+        <artifacts>
+            <artifact>
+                <artifactId>git_hub</artifactId>
+            </artifact>
+        </artifacts>
+        <build>
+            <properties>
+                <jenkins.parameter.PolarionBuildProject>gitpush</jenkins.parameter.PolarionBuildProject>
+                <jenkins.build.job.url>http://localhost:8080/job/gitpush</jenkins.build.job.url>
+            </properties>
+        </build>
+    </descriptor>
+    <descriptor name="sami_sri">
+        <artifacts>
+            <artifact>
+                <artifactId>git_hub</artifactId>
+            </artifact>
+        </artifacts>
+        <build>
+            <properties>
+                <jenkins.parameter.PolarionBuildProject>testing</jenkins.parameter.PolarionBuildProject>
+                <jenkins.build.job.url>http://localhost:8080/job/testing</jenkins.build.job.url>
+            </properties>
+        </build>
+    </descriptor>
 </descriptors>

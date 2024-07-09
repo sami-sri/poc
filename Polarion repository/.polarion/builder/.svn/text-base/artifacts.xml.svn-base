@@ -1,6 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <artifacts>
-	<artifact>
-		<type>maven2</type>
-		<location>trunk</location>
-	</artifact>
+    <artifact>
+        <artifactId>git_hub</artifactId>
+        <type>jenkins</type>
+        <serverUrl>http://localhost:8080</serverUrl>
+        <accountVaultKey>CI.elibrary.jenkins.git_hub</accountVaultKey>
+    </artifact>
 </artifacts>

@@ -1,0 +1,41 @@
+8
+
+dir
+44
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/testing/testruns/build_quick-20240708-201018
+http://localhost/repo
+
+
+
+2024-07-08T14:40:18.752446Z
+42
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+testrun.xml
+file
+
+
+
+
+2024-07-09T06:34:54.882000Z
+fe12cf99c4dfb6545e4a961493867508
+2024-07-08T14:40:18.752446Z
+42
+admin
+has-props
+

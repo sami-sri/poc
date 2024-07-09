@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test-run>
+    <field id="author">admin</field>
+    <field id="created">2024-07-05 19:35:24.054 +0530</field>
+    <field id="finishedOn">2024-07-05 19:35:24.126 +0530</field>
+    <field id="groupId">20240705-1934</field>
+    <field id="records">
+        <list>
+            <struct>
+                <item id="duration">0.001</item>
+                <item id="executed">2024-07-05 19:35:24.092 +0530</item>
+                <item id="executedBy">admin</item>
+                <item id="result">passed</item>
+                <item id="testCase">EL-22</item>
+                <item id="testCaseRevision">21</item>
+            </struct>
+            <struct>
+                <item id="duration">0.0</item>
+                <item id="executed">2024-07-05 19:35:24.108 +0530</item>
+                <item id="executedBy">admin</item>
+                <item id="result">passed</item>
+                <item id="testCase">EL-23</item>
+                <item id="testCaseRevision">21</item>
+            </struct>
+            <struct>
+                <item id="duration">0.0</item>
+                <item id="executed">2024-07-05 19:35:24.123 +0530</item>
+                <item id="executedBy">admin</item>
+                <item id="result">passed</item>
+                <item id="testCase">EL-24</item>
+                <item id="testCaseRevision">21</item>
+            </struct>
+        </list>
+    </field>
+    <field id="selectTestCasesBy">automatedProcess</field>
+    <field id="status">passed</field>
+    <field id="template">xUnit Build Test</field>
+    <field id="type">automated</field>
+    <field id="useReportFromTemplate">true</field>
+</test-run>
