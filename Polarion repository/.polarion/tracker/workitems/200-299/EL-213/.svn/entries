@@ -1,0 +1,41 @@
+8
+
+dir
+49
+http://localhost/repo/Demo%20Projects/elibrary/.polarion/tracker/workitems/200-299/EL-213
+http://localhost/repo
+
+
+
+2024-07-11T14:55:29.558561Z
+49
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+79776e77-c80d-d144-9844-7fab4acc1da3
+
+workitem.xml
+file
+
+
+
+
+2024-07-11T14:56:58.042000Z
+57a06af138f1ad972383690993145dc9
+2024-07-11T14:55:29.558561Z
+49
+admin
+has-props
+
